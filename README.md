@@ -37,25 +37,3 @@ A deep learning model (CNN-based) is used to detect and classify different types
 * Preprocessing: Image resizing, normalization, and data augmentation applied
 
 ---
-
-##  Results
-
-### Binary Evaluation (Fractured vs Intact)
-
-```
-Accuracy: 100%
-
-
-
-### Classification Report
-
-* Precision: 1.00
-* Recall: 1.00
-* F1-score: 1.00
-
----
-
-
-
-
-
