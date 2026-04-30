@@ -37,13 +37,4 @@ A deep learning model (CNN-based) is used to detect and classify different types
 * Preprocessing: Image resizing, normalization, and data augmentation applied
 
 ---
-## Results
-
-### Test Images
-![Test Images](Images/test%20images.png)
-
-### Confusion Matrix
-![Confusion Matrix](Images/image%20(1).png)
-
-### Training Graph
-![Training Graph](Images/training.png)
+ 
