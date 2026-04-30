@@ -38,12 +38,8 @@ A deep learning model (CNN-based) is used to detect and classify different types
 
 ---
 ## Results
+!(test images.png)
 
-### Test Images
-![Test Images](Images/test images.png)
+!(image (1).png)
 
-### Confusion Matrix
-![Confusion Matrix](Images/image (1).png)
-
-### Training Graph
-![Training](Images/training.png)
+!(training.png)
